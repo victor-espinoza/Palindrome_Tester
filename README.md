@@ -1,4 +1,3 @@
-# Palindrome_Tester  
 Overview:  
 This is a simple program that asks the user to input a phrase and tests to see if it is a palindrome or not. The user can either enter a phrase and see if it is a palindrome or not, or they can enter "exit" to exit the program.  
    
